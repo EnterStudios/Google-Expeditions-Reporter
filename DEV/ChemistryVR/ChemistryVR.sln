@@ -1,6 +1,5 @@
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2008
-
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
 Project("{A80942B8-90B3-B83A-4D4E-20CC8433D118}") = "ChemistryVR", "Assembly-CSharp.csproj", "{835BB633-F23F-0019-906B-F329DC91E3C4}"
 EndProject
 Project("{A80942B8-90B3-B83A-4D4E-20CC8433D118}") = "ChemistryVR", "Assembly-CSharp-Editor.csproj", "{FCCA0A18-13AF-3D01-2086-FC71E7F088DD}"
@@ -19,9 +18,6 @@ Global
 		{FCCA0A18-13AF-3D01-2086-FC71E7F088DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FCCA0A18-13AF-3D01-2086-FC71E7F088DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FCCA0A18-13AF-3D01-2086-FC71E7F088DD}.Release|Any CPU.Build.0 = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(SolutionProperties) = preSolution
-		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(MonoDevelopProperties) = preSolution
 		StartupItem = Assembly-CSharp.csproj
