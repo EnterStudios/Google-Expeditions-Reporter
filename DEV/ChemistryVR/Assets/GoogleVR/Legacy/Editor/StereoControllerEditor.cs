@@ -14,7 +14,6 @@
 
 using UnityEngine;
 using UnityEditor;
-using System.Collections;
 using System.Linq;
 
 /// A custom editor for the StereoController script.  It exists to add the _Update

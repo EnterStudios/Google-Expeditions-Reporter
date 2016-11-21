@@ -12,8 +12,6 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-using UnityEngine;
-using System.Collections;
 
 /// This script provides an interface for gaze based responders used with
 /// the GvrGaze script.

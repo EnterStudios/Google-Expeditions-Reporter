@@ -1,5 +1,4 @@
 ﻿using UnityEngine;
-using System.Collections;
 /// <summary>
 /// Copyright (c) 2016 Eric Zhu. 
 /// </summary>

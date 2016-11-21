@@ -14,7 +14,6 @@
 
 using UnityEngine;
 using UnityEngine.Audio;
-using System.Collections;
 
 /// GVR audio source component that enhances AudioSource to provide advanced spatial audio features.
 [AddComponentMenu("GoogleVR/Audio/GvrAudioSource")]

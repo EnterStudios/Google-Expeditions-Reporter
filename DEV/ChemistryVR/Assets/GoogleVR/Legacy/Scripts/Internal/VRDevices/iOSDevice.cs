@@ -14,12 +14,11 @@
 #if UNITY_IOS
 
 using System.Runtime.InteropServices;
-using System.Collections.Generic;
-using UnityEngine;
 
 /// @cond
-namespace Gvr.Internal {
-  public class iOSDevice : GvrDevice {
+namespace Gvr.Internal
+{
+    public class iOSDevice : GvrDevice {
     // Native code libraries use OpenGL, but Unity picks Metal for iOS by default.
     bool isOpenGL = false;
 

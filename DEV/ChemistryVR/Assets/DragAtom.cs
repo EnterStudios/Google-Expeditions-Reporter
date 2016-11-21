@@ -13,8 +13,6 @@
 // limitations under the License.
 
 using UnityEngine;
-using System.Collections;
-using UnityEngine.EventSystems;
 
 [RequireComponent(typeof(Collider))]
 public class DragAtom : MonoBehaviour, IGvrGazeResponder {

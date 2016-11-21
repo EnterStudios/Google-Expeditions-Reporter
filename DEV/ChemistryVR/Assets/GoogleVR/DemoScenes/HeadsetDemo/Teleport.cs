@@ -13,7 +13,6 @@
 // limitations under the License.
 
 using UnityEngine;
-using System.Collections;
 
 [RequireComponent(typeof(Collider))]
 public class Teleport : MonoBehaviour, IGvrGazeResponder {

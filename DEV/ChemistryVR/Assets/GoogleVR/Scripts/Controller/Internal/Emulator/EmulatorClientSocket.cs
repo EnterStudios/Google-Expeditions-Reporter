@@ -14,18 +14,16 @@
 
 using UnityEngine;
 using System;
-using System.Collections;
-using System.Collections.Generic;
 using System.IO;
 using System.Net.Sockets;
-using System.Runtime.InteropServices;
 using System.Threading;
 
 using proto;
 
 /// @cond
-namespace Gvr.Internal {
-  class EmulatorClientSocket : MonoBehaviour {
+namespace Gvr.Internal
+{
+    class EmulatorClientSocket : MonoBehaviour {
     private static readonly int kPhoneEventPort = 7003;
     private const int kSocketReadTimeoutMillis = 5000;
 

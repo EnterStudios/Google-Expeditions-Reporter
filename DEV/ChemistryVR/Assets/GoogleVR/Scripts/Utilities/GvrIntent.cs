@@ -1,6 +1,4 @@
-﻿using UnityEngine;
-
-/// <summary>
+﻿/// <summary>
 /// Provides information about the Android Intent that started the current Activity.
 /// </summary>
 public static class GvrIntent {

@@ -13,7 +13,6 @@
 // limitations under the License.
 
 using UnityEngine;
-using System.Collections;
 
 /// GVR audio listener component that enhances AudioListener to provide advanced spatial audio
 /// features.

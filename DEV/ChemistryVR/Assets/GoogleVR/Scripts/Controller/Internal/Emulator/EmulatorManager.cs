@@ -13,14 +13,14 @@
 // limitations under the License.
 
 using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 using proto;
 
 /// @cond
-namespace Gvr.Internal {
-  class EmulatorManager : MonoBehaviour {
+namespace Gvr.Internal
+{
+    class EmulatorManager : MonoBehaviour {
 
     private IEnumerator emulatorUpdate;
     private WaitForEndOfFrame waitForEndOfFrame = new WaitForEndOfFrame();

@@ -14,7 +14,6 @@
 
 using UnityEngine;
 using UnityEngine.Audio;
-using System.Collections;
 
 // GVR soundfield component that allows playback of first-order ambisonic recordings. The
 // audio sample should be in Ambix (ACN-SN3D) format.
